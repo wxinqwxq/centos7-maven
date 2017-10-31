@@ -1,4 +1,4 @@
-FROM wxinqwxq/centos7-java8:jre8
+FROM wxinqwxq/centos7-java8:jdk8
 
 ARG MAVEN_VERSION=3.5.2
 ARG SHA=707b1f6e390a65bde4af4cdaf2a24d45fc19a6ded00fff02e91626e3e42ceaff
